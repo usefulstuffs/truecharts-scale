@@ -1,4 +1,4 @@
-# catalog
+# TrueCharts Catalog
 Uploaded on 15-07-2024
 
 [Original source](https://github.com/truecharts/archive/tree/main/scale-catalog)
